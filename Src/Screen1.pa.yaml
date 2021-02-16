@@ -1,7 +1,7 @@
 Screen1 As screen:
 
     Icon1 As icon.Person:
-        Icon: =Icon.Person
+        Icon: =Icon.People
         Width: =1366
         Height: =768
         ZIndex: =1
