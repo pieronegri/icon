@@ -3,6 +3,6 @@ Screen1 As screen:
     Icon1 As icon.Person:
         Icon: =Icon.People
         Width: =1000
-        Height: =500
+        Height: =5
         ZIndex: =1
 
