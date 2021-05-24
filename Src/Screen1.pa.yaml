@@ -4,5 +4,5 @@ Screen1 As screen:
         Icon: =Icon.Person
         Width: =800
         Height: =2
-        ZIndex: =10
+        ZIndex: =1
 
