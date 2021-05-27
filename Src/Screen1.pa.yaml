@@ -6,3 +6,8 @@ Screen1 As screen:
         Height: =1000
         ZIndex: =1
 
+    Icon3 As icon.Person:
+        Icon: =Icon.People
+        Width: =1000
+        Height: =1000
+        ZIndex: =1
