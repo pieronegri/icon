@@ -11,3 +11,9 @@ Screen1 As screen:
         Width: =1000
         Height: =1000
         ZIndex: =1
+
+    IconA As icon.Person:
+        Icon: =Icon.People
+        Width: =1000
+        Height: =1000
+        ZIndex: =1
